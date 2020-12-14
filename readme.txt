@@ -1,0 +1,1 @@
+This repository contains three projects designed to perform Breadth First Search, Depth First Search and A* algorithm and docummentation of my implementation. This is a university work for Artificial Intelligence and Computer Vision course, performed by Ewa Kobiela (student ID 249135).
