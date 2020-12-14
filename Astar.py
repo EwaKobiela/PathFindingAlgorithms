@@ -88,7 +88,6 @@ def search(list):
 
 #A node is valid when it didn't exceed the maze's range or is not a wall or previously visited node
 def valid(h, v):
-    print(h, v)
     if not(0<=h<=7 and 0<=v<=13):
         return False
     elif (maze[h, v]=="#" or maze[h, v]=="o"):
